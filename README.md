@@ -27,4 +27,5 @@ In order to test the new business idea, we'll create a [Proof of Concept (POC)](
 For our POC, we will build a command line app in C# and save our data in SQL Server.
 
 The ERD for the POC is provided below
+
 https://dbdiagram.io/d/5fce53559a6c525a03ba2069
